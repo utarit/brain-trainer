@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Brain Trainer</string>
+    <string name="question">%1$d + %2$d</string>
+    <string name="response">Correct!</string>
+    <string name="timer">30s</string>
+    <string name="result">0/0</string>
+    <string name="start">GO!</string>
+</resources>
